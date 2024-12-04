@@ -38,14 +38,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         fontWeight: 500
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/cover-costa-del-sol.png
     badge:
       type: Badge
       label: Professional Services
