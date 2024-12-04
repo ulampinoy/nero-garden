@@ -410,8 +410,11 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Protect your home with our professional roof repair services. From
+      **fixing leaks and replacing damaged shingles** to comprehensive
+      inspections and maintenance, we ensure the **integrity and longevity of
+      your roof.** With prompt service and quality workmanship, we provide peace
+      of mind under every weather condition
     actions:
       - type: Button
         label: Get started
