@@ -209,7 +209,7 @@ sections:
       type: TitleBlock
       text: Carpentry
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Precise and flawless woodwork
     text: >
       **Expert craftsmanship** in construction, installation, and repair of
       woodwork for residential and commercial projects. From **precise
