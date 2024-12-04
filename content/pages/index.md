@@ -63,10 +63,14 @@ sections:
       - type: FeaturedItem
         title: Irrigation
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We specialize in providing **tailored irrigation solutions** to meet
+          your specific needs. Whether you're a homeowner, farmer, or
+          landscaper, our team is dedicated to **maximizing the efficiency and
+          effectiveness** of your irrigation system. From design and
+          installation to maintenance and repairs, we're here to ensure your
+          landscape stays lush and healthy year-round. Let us help you save
+          time, water, and money with our professional irrigation services."
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
