@@ -78,7 +78,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/istockphoto-1361775589-2048x2048.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
