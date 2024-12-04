@@ -49,7 +49,7 @@ sections:
     badge:
       type: Badge
       label: Professional Services
-      color: text-primary
+      color: text-light
   - title:
       text: Irrigation
       color: text-dark
