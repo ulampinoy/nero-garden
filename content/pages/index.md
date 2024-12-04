@@ -45,7 +45,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/bgi-costa-del-sol.png
+      url: /images/cover-costa-del-sol.png
     badge:
       type: Badge
       label: Professional Services
