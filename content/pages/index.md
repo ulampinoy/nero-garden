@@ -444,10 +444,9 @@ sections:
           Garden.”
         tagline: Testimonial 6
         subtitle: 'Happy Villa Owner, Benahavís'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Every year we hire Nero to make our garden well groomed and his
+          landscaping skills are amazing!
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
