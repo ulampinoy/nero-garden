@@ -28,7 +28,7 @@ sections:
     colors: bg-dark-fg-light
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         flexDirection: col
         padding:
           - pt-16
