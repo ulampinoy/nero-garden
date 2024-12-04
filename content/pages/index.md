@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Pool & Home Maintenance
       color: text-dark
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
