@@ -34,7 +34,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: hero
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
