@@ -24,10 +24,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    badge:
-      label: PROFESSIONAL SERVICES
-      color: text-primary
-      type: Badge
     elementId: hero
     colors: bg-light-fg-dark
     styles:
