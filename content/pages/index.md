@@ -79,6 +79,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    elementId: irrigation
   - type: DividerSection
     title: Divider
     elementId: ''
