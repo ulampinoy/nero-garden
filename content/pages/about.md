@@ -21,7 +21,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/abstract-background.svg
+      url: /images/nero-01.jpeg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
