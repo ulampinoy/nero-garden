@@ -427,6 +427,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: row
   - type: DividerSection
     title: Divider
     elementId: ''
