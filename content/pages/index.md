@@ -289,13 +289,13 @@ sections:
       type: TitleBlock
     subtitle: Tailored irrigation solutions
     text: >
-      We specialize in providing tailored irrigation solutions to meet your
+      We specialize in providing **tailored irrigation solutions** to meet your
       specific needs. Whether you're a homeowner, farmer, or landscaper, our
-      team is dedicated to maximizing the efficiency and effectiveness of your
-      irrigation system. From design and installation to maintenance and
+      team is dedicated to **maximizing the efficiency and effectiveness** of
+      your irrigation system. From design and installation to maintenance and
       repairs, we're here to ensure your landscape stays lush and healthy
-      year-round. Let us help you save time, water, and money with our
-      professional irrigation services." 
+      year-round. Let us help you **save time, water, and money** with our
+      professional irrigation services."
     actions: []
     media:
       title: Title of the video
