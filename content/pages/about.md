@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Hello! I am Nero
+      text: 'Hello! I am Nero,'
       color: text-light
       styles:
         self:
