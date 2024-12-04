@@ -213,6 +213,46 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
+      text: Irrigation
+      color: text-dark
+      type: TitleBlock
+    subtitle: Increase your reach
+    text: >
+      We specialize in providing **tailored irrigation solutions** to meet your
+      specific needs. Whether you're a homeowner, farmer, or landscaper, our
+      team is dedicated to **maximizing the efficiency and effectiveness** of
+      your irrigation system. From design and installation to maintenance and
+      repairs, we're here to ensure your landscape stays lush and healthy
+      year-round. Let us help you **save time, water, and money** with our
+      professional irrigation services."
+    actions:
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
+      - label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        type: Link
+    media:
+      url: /images/hero2.svg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
+  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
@@ -259,46 +299,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
-  - title:
-      text: Irrigation
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      We specialize in providing **tailored irrigation solutions** to meet your
-      specific needs. Whether you're a homeowner, farmer, or landscaper, our
-      team is dedicated to **maximizing the efficiency and effectiveness** of
-      your irrigation system. From design and installation to maintenance and
-      repairs, we're here to ensure your landscape stays lush and healthy
-      year-round. Let us help you **save time, water, and money** with our
-      professional irrigation services."
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
