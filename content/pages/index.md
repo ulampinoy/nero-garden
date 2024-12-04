@@ -166,40 +166,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Carpentry
-      color: text-dark
-    subtitle: Precise and flawless woodwork
-    text: >
-      **Expert craftsmanship** in construction, installation, and repair of
-      woodwork for residential and commercial projects. From **precise
-      measurements to flawless finishes,** we bring your vision to life with
-      skill and dedication.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/istockphoto-1132215019-2048x2048.webp
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Landscaping & Yard Work
       color: text-dark
     subtitle: Outdoor retreats that inspires
@@ -231,6 +197,40 @@ sections:
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Carpentry
+      color: text-dark
+    subtitle: Precise and flawless woodwork
+    text: >
+      **Expert craftsmanship** in construction, installation, and repair of
+      woodwork for residential and commercial projects. From **precise
+      measurements to flawless finishes,** we bring your vision to life with
+      skill and dedication.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/istockphoto-1132215019-2048x2048.webp
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
