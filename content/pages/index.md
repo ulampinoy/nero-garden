@@ -331,8 +331,13 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We specialize in providing **tailored irrigation solutions** to meet your
+      specific needs. Whether you're a homeowner, farmer, or landscaper, our
+      team is dedicated to **maximizing the efficiency and effectiveness** of
+      your irrigation system. From design and installation to maintenance and
+      repairs, we're here to ensure your landscape stays lush and healthy
+      year-round. Let us help you **save time, water, and money** with our
+      professional irrigation services."
     actions:
       - label: Get started
         url: /
