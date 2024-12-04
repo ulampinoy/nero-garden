@@ -510,6 +510,7 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: contact
 seo:
   metaTitle: Home - Nero Garden
   metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
