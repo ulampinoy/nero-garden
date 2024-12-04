@@ -34,7 +34,7 @@ sections:
           - pt-36
           - pl-12
           - pb-36
-          - pr-16
+          - pr-12
         justifyContent: flex-start
       subtitle:
         fontWeight: 400
