@@ -214,7 +214,7 @@ sections:
       **Expert craftsmanship** in construction, installation, and repair of
       woodwork for residential and commercial projects. From **precise
       measurements to flawless finishes,** we bring your vision to life with
-      skill and dedication."
+      skill and dedication.
     actions:
       - type: Button
         label: Get started
