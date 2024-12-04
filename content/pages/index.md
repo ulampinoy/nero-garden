@@ -236,6 +236,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row
+    elementId: roof
   - type: DividerSection
     title: Divider
     elementId: ''
