@@ -440,8 +440,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          “Quote from some important person goes right here. I love Nero
+          Garden.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
