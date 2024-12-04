@@ -288,7 +288,7 @@ sections:
       type: TitleBlock
       text: Cyclone Fence
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Functional yet attractive
     text: >
       Our cyclone fence services offer the **perfect blend of functionality and
       aesthetics.** Whether you need to secure your property, create boundaries,
