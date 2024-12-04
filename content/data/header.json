@@ -18,7 +18,7 @@
             "links": [
                 {
                     "label": "Irrigation",
-                    "url": "/",
+                    "url": "#irrigation",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
