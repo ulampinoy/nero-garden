@@ -49,6 +49,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/cover-wide-costa-del-sol.png
   - title:
       text: Irrigation
       color: text-dark
