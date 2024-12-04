@@ -183,7 +183,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/istockphoto-1279562535-2048x2048.webp
       altText: Fun feature preview
     badge:
       type: Badge
