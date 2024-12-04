@@ -209,8 +209,12 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We're your trusted experts for all your plumbing needs. From leaky faucets
+      to full-scale pipe installations, we've got you covered. Our skilled
+      technicians are committed to delivering **top-quality workmanship and
+      exceptional customer service**. Whether it's residential or commercial
+      plumbing, we're here to provide reliable solutions to keep your plumbing
+      systems running smoothly. Don't let plumbing problems disrupt your day!
     actions:
       - type: Button
         label: Get started
