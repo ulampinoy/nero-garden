@@ -79,6 +79,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
+    elementId: irrigation
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -119,6 +120,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    elementId: plumbing
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -250,7 +252,7 @@ sections:
       type: TitleBlock
       text: Swimming Pool
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Refreshing aquatic retreat
     text: >
       From custom design and installation to routine maintenance and repairs,
       **we create aquatic retreats tailored to your vision.** With a
@@ -272,6 +274,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    elementId: pool
   - type: DividerSection
     title: Divider
     elementId: ''
