@@ -7,7 +7,7 @@ sections:
       text: Pool and Home Maintenance
       color: text-dark
       type: TitleBlock
-    subtitle: ', from apartments to villas along the Costa del Sol.'
+    subtitle: For apartments to villas along the Costa del Sol.
     text: >
       We have the best solutions and professional maintenance services for any
       kind of property
