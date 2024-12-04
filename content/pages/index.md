@@ -296,7 +296,7 @@ sections:
       type: TitleBlock
       text: Roof Repairs
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Peace of mind
     text: >
       Protect your home with our professional roof repair services. From
       **fixing leaks and replacing damaged shingles** to comprehensive
