@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
+    subtitle: 'For apartments and villas along the Costa del Sol, Spain'
     text: >
       **We have the best solutions and professional maintenance services for any
       kind of property**
