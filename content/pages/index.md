@@ -252,7 +252,7 @@ sections:
       type: TitleBlock
       text: Swimming Pool
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Refreshing aquatic retreat\
     text: >
       From custom design and installation to routine maintenance and repairs,
       **we create aquatic retreats tailored to your vision.** With a
