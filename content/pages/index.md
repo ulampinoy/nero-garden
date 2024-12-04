@@ -30,8 +30,8 @@ sections:
       label: PROFESSIONAL SERVICES
       color: text-primary
       type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
+    elementId: hero
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
@@ -41,17 +41,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - title:
       text: Irrigation
       color: text-dark
