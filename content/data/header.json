@@ -74,7 +74,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Contact us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
