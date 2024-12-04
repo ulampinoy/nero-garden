@@ -312,8 +312,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      **Expert craftsmanship** in construction, installation, and repair of
+      woodwork for residential and commercial projects. From **precise
+      measurements to flawless finishes,** we bring your vision to life with
+      skill and dedication."
     actions:
       - type: Button
         label: Get started
