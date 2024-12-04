@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/logo.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -41,7 +41,7 @@
                     "type": "Link"
                 }
             ],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         },
         {
@@ -50,7 +50,7 @@
             "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Link"
         }
     ],

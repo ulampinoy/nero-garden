@@ -4,9 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pool and Home Maintenance
-      color: text-dark
       type: TitleBlock
+      text: Pool & Home Maintenance
+      color: text-light
+      styles:
+        self:
+          fontWeight: 700
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
       We have the best solutions and professional maintenance services for any
@@ -15,32 +18,38 @@ sections:
       - label: Contact us
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
         type: Button
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: PROFESSIONAL SERVICES
-      color: text-primary
-      type: Badge
     elementId: hero
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
-          - pt-16
+          - pt-36
           - pl-16
-          - pb-16
+          - pb-36
           - pr-16
+        justifyContent: flex-start
+      subtitle:
+        fontWeight: 400
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/bgi-costa-del-sol.png
+    badge:
+      type: Badge
+      label: Professional Services
+      color: text-light
   - title:
       text: Irrigation
       color: text-dark
@@ -782,8 +791,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Nero Garden
+  metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
