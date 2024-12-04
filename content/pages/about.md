@@ -17,12 +17,7 @@ sections:
       began with a simple love for nurturing spaces, with years of experience
       and a whole lot of passion, I'm all about making your home and garden
       dreams come true.
-    text: >
-      I have years of hands-on experience and a dedication, I am your go-to
-      professional for all your home and garden maintenance needs. My journey
-      began with a simple love for nurturing spaces, with years of experience
-      and a whole lot of passion, I'm all about making your home and garden
-      dreams come true.
+    text: ''
     actions: []
     colors: bg-dark-fg-light
     backgroundImage:
