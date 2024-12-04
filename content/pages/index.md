@@ -349,7 +349,7 @@ sections:
       type: TitleBlock
       text: Painting
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'For interior or exterior, residential or commercial'
     text: >
       Transform your space with **expert painting services tailored to your
       vision**. From refreshing a room with a new coat of paint to intricate
