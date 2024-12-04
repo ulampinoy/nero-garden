@@ -605,7 +605,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Electrical Services
       color: text-dark
     subtitle: Be in good company
     text: >
