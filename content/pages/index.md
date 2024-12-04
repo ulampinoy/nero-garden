@@ -357,7 +357,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Landscaping & Yard Work
       color: text-dark
     subtitle: Increase your reach
     text: >
