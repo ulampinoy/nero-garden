@@ -609,8 +609,11 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      We specialize in installations, repairs, and maintenance for residential,
+      commercial, and industrial properties. Whether you need **wiring upgrades,
+      lighting solutions, electrical panel enhancements, or emergency repairs**,
+      we deliver reliable and high-quality workmanship tailored to your specific
+      needs
     actions:
       - type: Button
         label: Get started
