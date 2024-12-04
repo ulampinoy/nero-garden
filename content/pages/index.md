@@ -247,7 +247,7 @@ sections:
       type: TitleBlock
       text: Landscaping & Yard Work
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Outdoor retreats that inspires
     text: >
       **Elevate your outdoor space** with our comprehensive landscaping and yard
       work services. Our professional services range from **lawn maintenance and
