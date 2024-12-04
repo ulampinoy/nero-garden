@@ -355,9 +355,7 @@ sections:
       vision**. From refreshing a room with a new coat of paint to intricate
       decorative finishes, we provide **meticulous attention to detail and
       quality craftsmanship.** Our skilled team ensures smooth surfaces, vibrant
-      colors, and a flawless finish, turning your house into a personalized
-      masterpiece. Whether it's interior or exterior, residential or commercial,
-      let us bring your ideas to life with precision and passion.
+      colors, and a flawless finish.
     actions:
       - type: Button
         label: Get started
