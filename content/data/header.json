@@ -63,7 +63,7 @@
             "style": "primary",
             "type": "Button",
             "altText": "Contact us",
-            "showIcon": true
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-centered",
