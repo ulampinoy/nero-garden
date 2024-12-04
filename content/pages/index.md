@@ -795,7 +795,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home - Nero Garden
   metaDescription: THe official website of NeroGarden Professional Maintenance Services
   socialImage: /images/main-hero.jpg
   type: Seo
