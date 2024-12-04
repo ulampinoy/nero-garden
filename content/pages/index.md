@@ -403,6 +403,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row
+    elementId: electrical
   - title: Divider
     colors: bg-light-fg-dark
     styles:
