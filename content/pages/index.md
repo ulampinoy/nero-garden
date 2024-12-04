@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Pool & Home Maintenance
-      color: text-dark
+      color: text-light
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
       We have the best solutions and professional maintenance services for any
