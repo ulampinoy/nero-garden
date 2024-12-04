@@ -469,7 +469,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/istockphoto-2147540050-2048x2048.webp
       altText: Fun feature preview
     badge:
       type: Badge
