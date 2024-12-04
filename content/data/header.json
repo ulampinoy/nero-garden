@@ -42,7 +42,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "See Tutorials",
+                    "label": "Carpentry",
                     "altText": "",
                     "url": "#carpentry",
                     "showIcon": false,
