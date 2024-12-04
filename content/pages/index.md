@@ -288,11 +288,14 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We specialize in providing tailored irrigation solutions to meet your
+      specific needs. Whether you're a homeowner, farmer, or landscaper, our
+      team is dedicated to maximizing the efficiency and effectiveness of your
+      irrigation system. From design and installation to maintenance and
+      repairs, we're here to ensure your landscape stays lush and healthy
+      year-round. Let us help you save time, water, and money with our
+      professional irrigation services." 
     actions: []
     media:
       title: Title of the video
