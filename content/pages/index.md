@@ -558,8 +558,13 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Transform your space with **expert painting services tailored to your
+      vision**. From refreshing a room with a new coat of paint to intricate
+      decorative finishes, we provide **meticulous attention to detail and
+      quality craftsmanship.** Our skilled team ensures smooth surfaces, vibrant
+      colors, and a flawless finish, turning your house into a personalized
+      masterpiece. Whether it's interior or exterior, residential or commercial,
+      let us bring your ideas to life with precision and passion.
     actions:
       - type: Button
         label: Get started
