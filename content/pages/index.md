@@ -497,8 +497,11 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our cyclone fence services offer the **perfect blend of functionality and
+      aesthetics.** Whether you need to secure your property, create boundaries,
+      or enhance privacy, our expert team delivers **precision installation and
+      repairs**. Utilizing top-quality materials, we ensure durability against
+      harsh weather conditions while maintaining an attractive appearance
     actions:
       - type: Button
         label: Get started
