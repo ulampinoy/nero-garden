@@ -12,12 +12,12 @@ sections:
           fontWeight: 700
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
-      We have the best solutions and professional maintenance services for any
-      kind of property
+      **We have the best solutions and professional maintenance services for any
+      kind of property**
     actions:
       - label: Contact us
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -37,7 +37,11 @@ sections:
           - pr-4
         justifyContent: flex-start
       subtitle:
-        fontWeight: 400
+        fontWeight: 500
+    badge:
+      type: Badge
+      label: Professional Services
+      color: text-light
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
@@ -45,11 +49,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/bgi-costa-del-sol.png
-    badge:
-      type: Badge
-      label: Professional Services
-      color: text-light
+      url: /images/cover-wide-costa-del-sol.png
   - title:
       text: Irrigation
       color: text-dark
@@ -61,8 +61,8 @@ sections:
       team is dedicated to **maximizing the efficiency and effectiveness** of
       your irrigation system. From design and installation to maintenance and
       repairs, we're here to ensure your landscape stays lush and healthy
-      year-round. Let us help you **save time, water, and money** with our
-      professional irrigation services."
+      year-round. **Save time, water, and money** with our professional
+      irrigation services.
     actions:
       - label: Get started
         url: /
@@ -70,21 +70,10 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/istockphoto-1361775589-2048x2048.webp
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: Our Top Service
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
@@ -299,7 +288,7 @@ sections:
       type: TitleBlock
       text: Cyclone Fence
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Functional yet attractive
     text: >
       Our cyclone fence services offer the **perfect blend of functionality and
       aesthetics.** Whether you need to secure your property, create boundaries,
@@ -317,10 +306,6 @@ sections:
       type: ImageBlock
       url: /images/istockphoto-1090477848-2048x2048.webp
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
@@ -356,13 +341,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/istockphoto-2147540050-2048x2048.webp
@@ -514,17 +492,14 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
-        icon: arrowRight
+        showIcon: true
+        icon: send
         iconPosition: right
         style: primary
         elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: contact
 seo:
   metaTitle: Home - Nero Garden
   metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '

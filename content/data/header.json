@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo.svg",
+        "url": "/images/logo-text.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -56,13 +56,14 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Contact us",
+            "label": "Contact Us",
             "url": "/",
-            "icon": "arrowRight",
+            "icon": "send",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "altText": "Contact us"
+            "altText": "Contact us",
+            "showIcon": false
         }
     ],
     "variant": "logo-left-primary-nav-centered",
