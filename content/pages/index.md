@@ -321,10 +321,6 @@ sections:
       type: ImageBlock
       url: /images/istockphoto-973634402-2048x2048.webp
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
