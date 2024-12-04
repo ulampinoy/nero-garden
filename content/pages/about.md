@@ -12,11 +12,11 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      I have years of hands-on experience and a dedication , I am your go-to
+      professional for all your home and garden maintenance needs. My journey
+      began with a simple love for nurturing spaces, with years of experience
+      and a whole lot of passion, I'm all about making your home and garden
+      dreams come true.
     actions:
       - type: Button
         label: See open positions
