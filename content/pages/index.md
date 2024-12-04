@@ -4,12 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pool and Home Maintenance
-      color: text-light
       type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
       We have the best solutions and professional maintenance services for any
