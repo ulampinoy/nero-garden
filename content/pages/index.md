@@ -361,8 +361,11 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      **Elevate your outdoor space** with our comprehensive landscaping and yard
+      work services. Our professional services range from **lawn maintenance and
+      garden design to hardscape installations and seasonal clean-ups.** With
+      attention to detail and a passion for greenery, we create outdoor retreats
+      that inspire and rejuvenate.
     actions:
       - type: Button
         label: Get started
