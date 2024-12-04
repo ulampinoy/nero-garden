@@ -460,8 +460,10 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      From custom design and installation to routine maintenance and repairs,
+      **we create aquatic retreats tailored to your vision.** With a
+      **commitment to excellence and safety,** we ensure your pool remains a
+      refreshing oasis for years to come.
     actions:
       - type: Button
         label: Get started
