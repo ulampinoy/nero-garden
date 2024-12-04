@@ -106,7 +106,7 @@ sections:
       type: TitleBlock
       text: Plumbing
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Top quality workmanship
     text: >
       We're your trusted experts for all your plumbing needs. From leaky faucets
       to full-scale pipe installations, we've got you covered. Our skilled
