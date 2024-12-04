@@ -395,7 +395,7 @@ sections:
       type: TitleBlock
       text: Electrical Services
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Licensed and professional
     text: >
       We specialize in installations, repairs, and maintenance for residential,
       commercial, and industrial properties. Whether you need **wiring upgrades,
