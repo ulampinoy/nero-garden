@@ -796,7 +796,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Nero Garden
-  metaDescription: THe official website of NeroGarden Professional Maintenance Services
+  metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
