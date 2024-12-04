@@ -443,7 +443,7 @@ sections:
           “Quote from some important person goes right here. I love Nero
           Garden.”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: Happy Villa Owner in Benahavís
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
