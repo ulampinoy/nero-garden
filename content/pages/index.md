@@ -10,7 +10,7 @@ sections:
     subtitle: Subtitle goes here
     text: >
       We have the best solutions and professional maintenance services for any
-      kind of property, from apartments to villas along the Costa del Sol.
+      kind of property
     actions:
       - label: Get started
         altText: ''
