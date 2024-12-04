@@ -12,7 +12,7 @@ sections:
           textAlign: center
           fontWeight: 700
     subtitle: >-
-      I have years of hands-on experience and a dedication, I am your go-to
+      I have years of hands-on experience and dedication, I am your go-to
       professional for all your home and garden maintenance needs. My journey
       began with a simple love for nurturing spaces, with years of experience
       and a whole lot of passion, I'm all about making your home and garden
