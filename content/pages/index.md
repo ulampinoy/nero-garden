@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Best pool
+      text: Pool and Home Maintenance
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
