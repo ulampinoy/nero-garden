@@ -18,7 +18,7 @@ sections:
       and a whole lot of passion, I'm all about making your home and garden
       dreams come true.
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
       url: /images/nero-01.jpeg
