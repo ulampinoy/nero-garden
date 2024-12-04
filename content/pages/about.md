@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: Section subtitle
     text: >
       I have years of hands-on experience and a dedication, I am your go-to
