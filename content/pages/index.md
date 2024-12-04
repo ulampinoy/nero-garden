@@ -46,6 +46,10 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/bgi-costa-del-sol.png
+    badge:
+      type: Badge
+      label: Professional Services
+      color: text-primary
   - title:
       text: Irrigation
       color: text-dark
