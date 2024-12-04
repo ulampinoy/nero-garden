@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Hello! I am Nero
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
