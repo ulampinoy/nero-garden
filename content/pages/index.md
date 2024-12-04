@@ -32,7 +32,7 @@ sections:
         flexDirection: col
         padding:
           - pt-16
-          - pl-12
+          - pl-4
           - pb-16
           - pr-12
         justifyContent: flex-start
