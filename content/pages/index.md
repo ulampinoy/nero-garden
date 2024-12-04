@@ -54,7 +54,7 @@ sections:
       text: Irrigation
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Tailored irrigation services
     text: >
       We specialize in providing **tailored irrigation solutions** to meet your
       specific needs. Whether you're a homeowner, farmer, or landscaper, our
@@ -78,11 +78,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/istockphoto-1361775589-2048x2048.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Our Top Service
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -130,7 +130,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/istockphoto-1150199946-1024x1024.jpg
       altText: Dope design preview
     badge:
       type: Badge
@@ -152,47 +152,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Drywall
-      color: text-dark
-    subtitle: Increase your reach
-    text: >
-      We specialize in providing **high-quality drywall installation, repair,
-      and finishing solutions.** Whether you're renovating your home, building a
-      new commercial space, or simply need repairs, our experienced team is here
-      to deliver outstanding results. With **attention to detail** and a
-      commitment to excellence, we ensure your walls are smooth, sturdy, and
-      ready for paint or texture. Trust us to transform your space with our
-      professional drywall services. Contact us today for reliable craftsmanship
-      and exceptional customer satisfaction!
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -204,50 +163,12 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Carpentry
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      **Expert craftsmanship** in construction, installation, and repair of
-      woodwork for residential and commercial projects. From **precise
-      measurements to flawless finishes,** we bring your vision to life with
-      skill and dedication."
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: GenericSection
     title:
       type: TitleBlock
       text: Landscaping & Yard Work
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Outdoor retreats that inspires
     text: >
       **Elevate your outdoor space** with our comprehensive landscaping and yard
       work services. Our professional services range from **lawn maintenance and
@@ -270,16 +191,46 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/istockphoto-1445233447-2048x2048.webp
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Carpentry
+      color: text-dark
+    subtitle: Precise and flawless woodwork
+    text: >
+      **Expert craftsmanship** in construction, installation, and repair of
+      woodwork for residential and commercial projects. From **precise
+      measurements to flawless finishes,** we bring your vision to life with
+      skill and dedication.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/istockphoto-1132215019-2048x2048.webp
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -296,7 +247,7 @@ sections:
       type: TitleBlock
       text: Roof Repairs
       color: text-dark
-    subtitle: Be in good company
+    subtitle: All-weather peace of mind
     text: >
       Protect your home with our professional roof repair services. From
       **fixing leaks and replacing damaged shingles** to comprehensive
@@ -319,17 +270,13 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/istockphoto-973634402-2048x2048.webp
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -368,7 +315,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/istockphoto-1691339469-2048x2048.webp
       altText: Fun feature preview
     badge:
       type: Badge
@@ -378,6 +325,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -417,7 +365,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/istockphoto-1090477848-2048x2048.webp
       altText: Dope design preview
     badge:
       type: Badge
@@ -427,7 +375,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -469,7 +417,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/istockphoto-2147540050-2048x2048.webp
       altText: Fun feature preview
     badge:
       type: Badge
@@ -479,6 +427,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -518,7 +467,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/istockphoto-904951634-2048x2048.webp
       altText: Dope design preview
     badge:
       type: Badge
@@ -528,7 +477,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
   - title: Divider
     colors: bg-light-fg-dark
     styles:
