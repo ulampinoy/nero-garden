@@ -53,6 +53,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/costa-del-sol.png
   - title:
       text: Irrigation
       color: text-dark
