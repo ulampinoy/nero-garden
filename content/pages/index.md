@@ -796,7 +796,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: THe official website of NeroGarden Professional Maintenance Services
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
