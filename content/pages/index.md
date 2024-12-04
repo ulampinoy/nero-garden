@@ -287,7 +287,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Tailored irrigation solutions
     text: >
       We specialize in providing tailored irrigation solutions to meet your
       specific needs. Whether you're a homeowner, farmer, or landscaper, our
