@@ -31,7 +31,7 @@ sections:
         alignItems: center
         flexDirection: col
         padding:
-          - pt-0
+          - pt-16
           - pl-4
           - pb-0
           - pr-4
