@@ -427,7 +427,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
