@@ -271,8 +271,14 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We specialize in providing **high-quality drywall installation, repair,
+      and finishing solutions.** Whether you're renovating your home, building a
+      new commercial space, or simply need repairs, our experienced team is here
+      to deliver outstanding results. With **attention to detail** and a
+      commitment to excellence, we ensure your walls are smooth, sturdy, and
+      ready for paint or texture. Trust us to transform your space with our
+      professional drywall services. Contact us today for reliable craftsmanship
+      and exceptional customer satisfaction!
     actions:
       - type: Button
         label: Get started
