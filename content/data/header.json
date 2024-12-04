@@ -58,7 +58,7 @@
         {
             "label": "Contact us",
             "url": "/",
-            "icon": "send",
+            "icon": "",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
