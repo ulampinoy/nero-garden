@@ -62,7 +62,8 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "altText": "Contact us"
+            "altText": "Contact us",
+            "showIcon": true
         }
     ],
     "variant": "logo-left-primary-nav-centered",
