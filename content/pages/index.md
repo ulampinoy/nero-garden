@@ -356,6 +356,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    elementId: painting
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -402,6 +403,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row
+    elementId: electrical
   - title: Divider
     colors: bg-light-fg-dark
     styles:

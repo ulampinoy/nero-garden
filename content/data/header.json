@@ -83,6 +83,28 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Painting",
+                    "altText": "",
+                    "url": "#painting",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Electrical",
+                    "altText": "",
+                    "url": "#electrical",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "primary",
