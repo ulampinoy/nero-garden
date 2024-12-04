@@ -274,6 +274,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+    elementId: pool
   - type: DividerSection
     title: Divider
     elementId: ''
