@@ -272,10 +272,6 @@ sections:
       type: ImageBlock
       url: /images/istockphoto-1445233447-2048x2048.webp
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
