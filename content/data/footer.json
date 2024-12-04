@@ -1,10 +1,9 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "Trusted professional maintenance services for any kind of property, from apartments to villas along the Costa del Sol.\n",
+    "text": "### Nero Garden\n\nTrusted professional maintenance services for any kind of property, from apartments to villas along the Costa del Sol.\n",
     "primaryLinks": {
         "title": "SERVICES",
         "links": [
@@ -26,7 +25,7 @@
                 "type": "Link"
             },
             {
-                "label": "Drywall",
+                "label": "Swimming Pool",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
