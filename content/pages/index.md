@@ -54,7 +54,7 @@ sections:
       text: Irrigation
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Tailored irrigation services
     text: >
       We specialize in providing **tailored irrigation solutions** to meet your
       specific needs. Whether you're a homeowner, farmer, or landscaper, our
