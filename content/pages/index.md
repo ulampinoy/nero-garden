@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Pool and Home Maintenance
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: 'For apartments and villas along the Costa del Sol, Marbella, Spain'
     text: >
