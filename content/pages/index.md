@@ -37,7 +37,7 @@ sections:
           - pr-4
         justifyContent: flex-start
       subtitle:
-        fontWeight: 400
+        fontWeight: 500
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
