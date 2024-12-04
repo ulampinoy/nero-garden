@@ -55,7 +55,7 @@
         },
         {
             "label": "Contact Us",
-            "url": "/pricing",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
