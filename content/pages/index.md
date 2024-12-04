@@ -30,7 +30,7 @@ sections:
       label: PROFESSIONAL SERVICES
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: hero
     colors: bg-light-fg-dark
     styles:
       self:
