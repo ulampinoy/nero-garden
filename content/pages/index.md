@@ -477,7 +477,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
   - title: Divider
     colors: bg-light-fg-dark
     styles:
