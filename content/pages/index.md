@@ -81,10 +81,6 @@ sections:
       url: /images/istockphoto-1361775589-2048x2048.webp
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: Our Top Service
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
