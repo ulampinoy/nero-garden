@@ -320,13 +320,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: /images/istockphoto-1090477848-2048x2048.webp
