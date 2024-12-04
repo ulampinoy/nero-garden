@@ -12,7 +12,7 @@ sections:
       We have the best solutions and professional maintenance services for any
       kind of property
     actions:
-      - label: Get started
+      - label: Contact us
         altText: ''
         url: /
         showIcon: false
