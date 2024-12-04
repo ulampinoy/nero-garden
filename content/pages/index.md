@@ -25,7 +25,7 @@ sections:
         elementId: ''
         type: Button
     elementId: hero
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
