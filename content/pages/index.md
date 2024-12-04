@@ -270,52 +270,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Irrigation
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Tailored irrigation solutions
-    text: >
-      We specialize in providing **tailored irrigation solutions** to meet your
-      specific needs. Whether you're a homeowner, farmer, or landscaper, our
-      team is dedicated to **maximizing the efficiency and effectiveness** of
-      your irrigation system. From design and installation to maintenance and
-      repairs, we're here to ensure your landscape stays lush and healthy
-      year-round. Let us help you **save time, water, and money** with our
-      professional irrigation services."
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Irrigation
       color: text-dark
