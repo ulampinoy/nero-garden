@@ -442,7 +442,7 @@ sections:
       - title: >-
           “Quote from some important person goes right here. I love Nero
           Garden.”
-        tagline: Testimonial 6
+        tagline: Landsscaping and Pool Servies
         subtitle: 'Happy Villa Owner, Benahavís'
         text: >
           Every year we hire Nero to make our garden well groomed and his
