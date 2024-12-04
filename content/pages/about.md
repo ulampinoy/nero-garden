@@ -17,13 +17,7 @@ sections:
       began with a simple love for nurturing spaces, with years of experience
       and a whole lot of passion, I'm all about making your home and garden
       dreams come true.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
