@@ -5,15 +5,17 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Pool & Home Maintenance
+      text: Garden Pool & Home Maintenance
       color: text-light
       styles:
         self:
           fontWeight: 700
     subtitle: 'For apartments and villas along the Costa del Sol, Spain'
     text: >
-      **We have the best solutions and professional maintenance services for any
-      kind of property**
+      **We provide the best professional maintenance services such as garden
+      irrigation, landscaping and yard work, swimming pool care, plumbing,
+      carpentry, painting and electrical services and more for any kind of
+      property**
     actions:
       - label: Contact us
         altText: ''
@@ -416,11 +418,9 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our customers say about us...
     items:
-      - title: >-
-          “Quote from some important person goes right here. I love Nero
-          Garden.”
+      - title: “I love Nero Garden!”
         tagline: Landsscaping and Pool Servies
         subtitle: 'Happy Villa Owner, Benahavís'
         text: >
@@ -443,7 +443,7 @@ sections:
               - pl-9
               - pr-9
             textAlign: left
-            borderRadius: large
+            borderRadius: x-large
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
