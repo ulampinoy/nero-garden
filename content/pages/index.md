@@ -468,7 +468,7 @@ sections:
     actions:
       - type: Button
         label: Chat on WhatsApp
-        url: /wa.me/34663330540
+        url: 'https://wa.me/34663330540'
         icon: arrowRight
         iconPosition: right
         style: primary
