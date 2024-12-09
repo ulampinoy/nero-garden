@@ -418,7 +418,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our customers say about us...
     items:
       - title: “I love Nero Garden!”
         tagline: Landsscaping and Pool Servies
