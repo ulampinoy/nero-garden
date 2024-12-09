@@ -392,7 +392,7 @@ sections:
     actions:
       - type: Button
         label: Talk to us
-        url: /
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
