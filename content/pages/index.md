@@ -500,5 +500,6 @@ seo:
       content: Nero Garden – Professional Gardel Pool & Home Maintenance Services
     - type: MetaTag
       property: 'og:url'
+      content: 'https://nerogarden.com'
 type: PageLayout
 ---
