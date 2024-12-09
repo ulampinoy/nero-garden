@@ -488,7 +488,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Nero Garden
+  metaTitle: Home – Nero Garden – Pool & Home Maintenance
   metaDescription: >-
     Welcome to Nero Garden – Professional Services: Garden Pool and Home
     Maintenance 
