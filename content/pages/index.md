@@ -499,7 +499,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send it
         showIcon: true
         icon: send
         iconPosition: right
