@@ -234,6 +234,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Chat with Us
     media:
       type: ImageBlock
       url: /images/istockphoto-973634402-2048x2048.webp
