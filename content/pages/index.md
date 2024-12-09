@@ -194,6 +194,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Send a message
     media:
       type: ImageBlock
       url: /images/istockphoto-1132215019-2048x2048.webp
