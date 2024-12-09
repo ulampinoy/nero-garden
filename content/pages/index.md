@@ -109,7 +109,7 @@ sections:
       systems running smoothly. Don't let plumbing problems disrupt your day!
     actions:
       - type: Button
-        label: Get started
+        label: Send a message
         url: /
         icon: arrowRight
         iconPosition: right
