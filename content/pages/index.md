@@ -463,7 +463,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Send us a message directly to WhatsApp
     items:
       - type: FeaturedItem
         title: Account Executive
