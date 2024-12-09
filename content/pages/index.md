@@ -488,7 +488,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Nero Garden – Pool & Home Maintenance
+  metaTitle: Nero Garden – Professional Garden Pool & Home Maintenance Services
   metaDescription: >-
     Professional maintenance services such as garden irrigation, landscaping and
     yard work, swimming pool care, plumbing, carpentry, painting, roof repair,
