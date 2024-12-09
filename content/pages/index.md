@@ -391,7 +391,7 @@ sections:
       needs
     actions:
       - type: Button
-        label: Get started
+        label: Talk to us
         url: /
         icon: arrowRight
         iconPosition: right
