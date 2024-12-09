@@ -13,8 +13,8 @@ sections:
     subtitle: 'For apartments and villas along the Costa del Sol, Spain'
     text: >
       **Professional maintenance services such as garden irrigation, landscaping
-      and yard work, swimming pool care, plumbing, carpentry and electrical
-      service and more for any kind of property**
+      and yard work, swimming pool care, plumbing, carpentry, painting and
+      electrical services and more for any kind of property**
     actions:
       - label: Contact us
         altText: ''
