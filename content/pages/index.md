@@ -499,7 +499,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send it
         showIcon: true
         icon: send
         iconPosition: right
@@ -507,7 +507,7 @@ sections:
         elementId: null
     colors: bg-light-fg-dark
     type: GenericSection
-    elementId: contact
+    elementId: contact-form
 seo:
   metaTitle: Home - Nero Garden
   metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
