@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Pool & Home Maintenance
+      text: Garden Pool & Home Maintenance
       color: text-light
       styles:
         self:
