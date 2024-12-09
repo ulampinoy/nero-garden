@@ -110,7 +110,7 @@ sections:
     actions:
       - type: Button
         label: Send a message
-        url: ''
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
