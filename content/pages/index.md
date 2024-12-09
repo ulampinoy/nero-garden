@@ -467,7 +467,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Apply now
+        label: Chat on WhatsApp
         url: /wa.me/34663330540
         icon: arrowRight
         iconPosition: right
