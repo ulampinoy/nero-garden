@@ -488,9 +488,21 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Nero Garden
-  metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
-  socialImage: /images/main-hero.jpg
+  metaTitle: Nero Garden – Professional Garden Pool & Home Maintenance Services
+  metaDescription: >-
+    Professional maintenance services such as garden irrigation, landscaping and
+    yard work, swimming pool care, plumbing, carpentry, painting, roof repair,
+    cyclone fencing, and electrical services for any kind of property along
+    Costa del Sol, Spain
+  socialImage: /images/nero-01.jpeg
   type: Seo
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: Nero Garden – Professional Gardel Pool & Home Maintenance Services
+    - type: MetaTag
+      property: 'og:url'
+      content: 'https://nerogarden.com'
+  addTitleSuffix: true
 type: PageLayout
 ---
