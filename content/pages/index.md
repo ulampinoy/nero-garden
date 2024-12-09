@@ -355,6 +355,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Contact us now
     media:
       type: ImageBlock
       url: /images/istockphoto-2147540050-2048x2048.webp
