@@ -150,7 +150,7 @@ sections:
       that inspire and rejuvenate.
     actions:
       - type: Button
-        label: Get started
+        label: Contact us
         url: /
         icon: arrowRight
         iconPosition: right
