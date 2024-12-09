@@ -189,7 +189,7 @@ sections:
       skill and dedication.
     actions:
       - type: Button
-        label: Send a message
+        label: Tell us what you need
         url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
