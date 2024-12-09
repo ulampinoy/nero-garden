@@ -110,7 +110,7 @@ sections:
     actions:
       - type: Button
         label: Send a message
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
