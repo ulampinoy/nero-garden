@@ -496,5 +496,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      property: 'og:title'
 type: PageLayout
 ---
