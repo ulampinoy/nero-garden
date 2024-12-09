@@ -12,8 +12,9 @@ sections:
           fontWeight: 700
     subtitle: 'For apartments and villas along the Costa del Sol, Spain'
     text: >
-      **We have the best solutions and professional maintenance services for any
-      kind of property**
+      **Professional maintenance services such as garden irrigation, landscaping
+      and yard work, swimming pool care, plumbing, carpentry and electrical
+      service and more for any kind of property**
     actions:
       - label: Contact us
         altText: ''
