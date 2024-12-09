@@ -472,6 +472,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Chat on WhatsApp
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
