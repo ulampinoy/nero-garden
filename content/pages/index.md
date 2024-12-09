@@ -455,59 +455,36 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
       text: Contact Us
       color: text-dark
-      type: TitleBlock
-    subtitle: Questions or doubts? We love to hear from you!
-    text: |
-      Fill-in the form below to send us your message
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
       styles:
         self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Send it
-        showIcon: true
-        icon: send
+          textAlign: center
+    subtitle: Send us a message directly to WhatsApp
+    items: []
+    actions:
+      - type: Button
+        label: Chat on WhatsApp
+        url: /wa.me/34663330540
+        icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        altText: Chat on WhatsApp
+    variant: toggle-list
     colors: bg-light-fg-dark
-    type: GenericSection
-    elementId: contact-form
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Nero Garden
   metaDescription: 'THe official website of Nero Garden Professional Maintenance Services '
