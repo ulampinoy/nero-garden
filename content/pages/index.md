@@ -350,7 +350,7 @@ sections:
       colors, and a flawless finish.
     actions:
       - type: Button
-        label: Get started
+        label: Contact us now
         url: /
         icon: arrowRight
         iconPosition: right
