@@ -458,7 +458,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Contact Us
       color: text-dark
       styles:
         self:
