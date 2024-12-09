@@ -230,7 +230,7 @@ sections:
     actions:
       - type: Button
         label: Chat with us
-        url: Tell us what you need
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
