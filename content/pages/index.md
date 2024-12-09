@@ -114,6 +114,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Send a message
     media:
       type: ImageBlock
       url: /images/istockphoto-1150199946-1024x1024.jpg
