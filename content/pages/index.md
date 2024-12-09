@@ -229,7 +229,7 @@ sections:
       of mind under every weather condition
     actions:
       - type: Button
-        label: Get started
+        label: Chat with us
         url: /
         icon: arrowRight
         iconPosition: right
