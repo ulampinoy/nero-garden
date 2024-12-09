@@ -66,7 +66,7 @@ sections:
       year-round. **Save time, water, and money** with our professional
       irrigation services.
     actions:
-      - label: Send a message
+      - label: Chat with us
         url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
