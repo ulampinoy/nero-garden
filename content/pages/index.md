@@ -274,6 +274,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Talk to us
     media:
       type: ImageBlock
       url: /images/istockphoto-1691339469-2048x2048.webp
