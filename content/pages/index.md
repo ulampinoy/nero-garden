@@ -420,9 +420,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “Quote from some important person goes right here. I love Nero
-          Garden.”
+      - title: “I love Nero Garden!”
         tagline: Landsscaping and Pool Servies
         subtitle: 'Happy Villa Owner, Benahavís'
         text: >
