@@ -473,6 +473,7 @@ sections:
         iconPosition: left
         style: primary
         altText: Chat on WhatsApp
+        showIcon: false
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
