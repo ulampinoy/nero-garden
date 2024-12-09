@@ -351,7 +351,7 @@ sections:
     actions:
       - type: Button
         label: Contact us now
-        url: /
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
