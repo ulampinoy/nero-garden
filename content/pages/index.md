@@ -189,7 +189,7 @@ sections:
       skill and dedication.
     actions:
       - type: Button
-        label: Get started
+        label: Send a message
         url: /
         icon: arrowRight
         iconPosition: right
