@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Contact us
         altText: ''
-        url: '#contact'
+        url: 'https://wa.me/34634087218'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -66,12 +66,13 @@ sections:
       year-round. **Save time, water, and money** with our professional
       irrigation services.
     actions:
-      - label: Get started
-        url: /
+      - label: Chat with us
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+        altText: Chat with us
     media:
       url: /images/istockphoto-1361775589-2048x2048.webp
       altText: Fun feature preview
@@ -108,11 +109,12 @@ sections:
       systems running smoothly. Don't let plumbing problems disrupt your day!
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Send a message
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Send a message
     media:
       type: ImageBlock
       url: /images/istockphoto-1150199946-1024x1024.jpg
@@ -148,11 +150,12 @@ sections:
       that inspire and rejuvenate.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Contact us
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Contact us
     media:
       type: ImageBlock
       url: /images/istockphoto-1445233447-2048x2048.webp
@@ -186,11 +189,12 @@ sections:
       skill and dedication.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Tell us what you need
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Tell us what you need
     media:
       type: ImageBlock
       url: /images/istockphoto-1132215019-2048x2048.webp
@@ -225,11 +229,12 @@ sections:
       of mind under every weather condition
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Chat with us
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Chat with Us
     media:
       type: ImageBlock
       url: /images/istockphoto-973634402-2048x2048.webp
@@ -264,11 +269,12 @@ sections:
       refreshing oasis for years to come.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Talk to us
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Talk to us
     media:
       type: ImageBlock
       url: /images/istockphoto-1691339469-2048x2048.webp
@@ -305,7 +311,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -344,11 +350,12 @@ sections:
       colors, and a flawless finish.
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Contact us now
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Contact us now
     media:
       type: ImageBlock
       url: /images/istockphoto-2147540050-2048x2048.webp
@@ -384,18 +391,12 @@ sections:
       needs
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Talk to us
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+        altText: Talk to us
     media:
       type: ImageBlock
       url: /images/istockphoto-904951634-2048x2048.webp
@@ -468,11 +469,12 @@ sections:
     actions:
       - type: Button
         label: Chat on WhatsApp
-        url: /wa.me/34663330540
+        url: 'https://wa.me/34634087218'
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         altText: Chat on WhatsApp
+        showIcon: false
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
