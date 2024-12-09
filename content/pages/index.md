@@ -499,6 +499,6 @@ seo:
       property: 'og:title'
       content: Nero Garden – Professional Gardel Pool & Home Maintenance Services
     - type: MetaTag
-      property: 'og:image'
+      property: 'og:url'
 type: PageLayout
 ---
