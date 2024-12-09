@@ -269,7 +269,7 @@ sections:
       refreshing oasis for years to come.
     actions:
       - type: Button
-        label: Get started
+        label: Talk to us
         url: /
         icon: arrowRight
         iconPosition: right
