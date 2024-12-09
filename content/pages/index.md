@@ -492,7 +492,7 @@ seo:
   metaDescription: >-
     Welcome to Nero Garden – Professional Services: Garden Pool and Home
     Maintenance 
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/nero-01.jpeg
   type: Seo
   metaTags:
     - type: MetaTag
