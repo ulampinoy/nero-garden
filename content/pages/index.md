@@ -492,7 +492,8 @@ seo:
   metaDescription: >-
     Professional maintenance services such as garden irrigation, landscaping and
     yard work, swimming pool care, plumbing, carpentry, painting, roof repair,
-    cyclone fencing, and electrical services for any kind of property along the 
+    cyclone fencing, and electrical services for any kind of property along
+    Costa del Sol, Spain
   socialImage: /images/nero-01.jpeg
   type: Seo
   metaTags:
