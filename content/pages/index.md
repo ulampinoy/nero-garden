@@ -230,7 +230,7 @@ sections:
     actions:
       - type: Button
         label: Chat with us
-        url: /
+        url: Tell us what you need
         icon: arrowRight
         iconPosition: right
         style: secondary
