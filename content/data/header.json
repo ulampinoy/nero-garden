@@ -8,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/logo-full-01.svg"
     },
     "primaryLinks": [
         {
