@@ -47,7 +47,7 @@
             {
                 "type": "Link",
                 "label": "Roof Repair",
-                "altText": "",
+                "altText": "Roof Repair",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
