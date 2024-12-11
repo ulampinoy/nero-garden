@@ -18,7 +18,8 @@ export default function Section(props) {
                 colors,
                 'relative',
                 styles?.margin ? mapStyles({ margin: styles?.margin }) : undefined,
-                styles?.padding ? mapStyles({ padding: styles?.padding }) : 'px-4 py-12 lg:py-28'
+                styles?.padding ? mapStyles({ padding: styles?.padding }) : 'px-4 pt-12 pb-2 lg:pt-28 lg:pb-4'
+                
             )}
             {...getDataAttrs(props)}
         >
