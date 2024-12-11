@@ -39,7 +39,7 @@ sections:
           - pr-4
         justifyContent: flex-start
       subtitle:
-        fontWeight: 500
+        fontWeight: 700
     badge:
       type: Badge
       label: Professional Services

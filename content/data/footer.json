@@ -6,7 +6,7 @@
     },
     "text": "Trusted professional maintenance services for any kind of property, from apartments to villas along the Costa del Sol.\n\n[Contact Us](https://wa.me/34634087218)\n",
     "primaryLinks": {
-        "title": "SERVICES",
+        "title": "GARDEN POOL SERVICES",
         "links": [
             {
                 "label": "Irrigation",
@@ -26,12 +26,35 @@
                 "type": "Link"
             },
             {
-                "label": "Swimming Pool",
+                "label": "Swimming Pool Care",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Swimming Pool Care"
+            },
+            {
+                "type": "Link",
+                "label": "Landscaping",
+                "altText": "Landscaping",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Roof Repair",
+                "altText": "Roof Repair",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
@@ -82,5 +105,55 @@
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "HOME MAINTENANCE",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Carpentry",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Roof Repair",
+                "altText": "",
+                "url": "/pricing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Electrical Services",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Painting",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
