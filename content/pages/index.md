@@ -505,6 +505,11 @@ seo:
       content: 'https://nerogarden.com'
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        Professional maintenance services such as garden irrigation, landscaping
+        and yard work, swimming pool care, plumbing, carpentry, painting, roof
+        repair, cyclone fencing, and electrical services for any kind of
+        property along Costa del Sol, Spain
   addTitleSuffix: true
 type: PageLayout
 ---
