@@ -6,13 +6,13 @@ sections:
     title:
       type: TitleBlock
       text: Garden Pool & Home Maintenance
-      color: text-light
+      color: text-white
       styles:
         self:
           fontWeight: 700
     subtitle: 'For apartments and villas along the Costa del Sol, Spain'
     text: >
-      **We provide the best professional maintenance services such as garden
+      We provide the best professional maintenance services such as garden
       irrigation, landscaping and yard work, swimming pool care, plumbing,
       carpentry, painting and electrical services and more for any kind of
       property**
@@ -50,7 +50,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 50
       url: /images/cover-wide-costa-del-sol.png
   - title:
       text: Irrigation
