@@ -503,6 +503,7 @@ seo:
     - type: MetaTag
       property: 'og:url'
       content: 'https://nerogarden.com'
+    - type: MetaTag
   addTitleSuffix: true
 type: PageLayout
 ---
