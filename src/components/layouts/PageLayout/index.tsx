@@ -2,6 +2,7 @@ import * as React from 'react';
 
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
+import ContactForm from '../../sections/ContactForm';
 
 export default function PageLayout(props) {
     const { page, site } = props;
@@ -35,6 +36,13 @@ export default function PageLayout(props) {
                         })}
                     </div>
                 )}
+                {/* Contact Form Section */}
+                <section className="pb-8 sb-layout sb-page-layout-contact-form">
+                    <div className="mx-auto sb-component sb-component-section sb-component-contact-form max-w-sectionBody">
+                        <h2 className="mb-8 text-center">Contact Us</h2>
+                    </div>
+                    <ContactForm />
+                </section>
             </main>
         </BaseLayout>
     );
