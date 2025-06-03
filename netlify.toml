@@ -3,6 +3,7 @@
   publish = ".next"
 
 [build.environment]
+  NEXT_USE_NETLIFY_EDGE = "true"
   NODE_VERSION = "18"
   NEXT_TELEMETRY_DISABLED = "1"
 
@@ -11,3 +12,7 @@
 
 [functions]
   directory = ".netlify/functions"
+
+# Support Netlify Forms
+[build.processing.html]
+  pretty_urls = true
