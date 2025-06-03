@@ -4,8 +4,7 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start",
-        "export": "next export"
+        "start": "next start"
     },
     "dependencies": {
         "@algolia/autocomplete-js": "^1.17.1",
@@ -25,7 +24,8 @@
     },
     "devDependencies": {
         "@base2/pretty-print-object": "^1.0.2",
-        "@netlify/plugin-nextjs": "^5.11.2",
+        "@netlify/plugin-nextjs": "^4.41.3",
+        "@netlify/functions": "^2.0.0",
         "@stackbit/cms-git": "^1.0.10",
         "@stackbit/types": "^2.0.1",
         "@types/glob": "^8.1.0",
