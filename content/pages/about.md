@@ -16,7 +16,6 @@ sections:
       #### I have years of hands-on experience and dedication, I am **your go-to
       professional** for all your home and garden maintenance needs. 
 
-
       My journey began with a simple love for nurturing spaces, with years of
       experience and a whole lot of passion, I'm all about making your home and
       garden dreams come true.
@@ -48,7 +47,7 @@ sections:
 slug: about
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
-  metaTags: []
+  metaTitle: About Nero Garden
+  metaDescription: Nero Garden – We provide the best professional maintenance services such as garden irrigation, landscaping and yard work, swimming pool care, plumbing, carpentry, painting and electrical services and more for any kind of property
+  metaTags: [garden irrigation, landscaping, yard work, swimming pool care, plumbing, carpentry, painting, electrical services]
 ---
