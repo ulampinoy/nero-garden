@@ -17,9 +17,9 @@ sections:
       carpentry, painting and electrical services and more for any kind of
       property.
     actions:
-      - label: Contact us
+      - label: Send a message
         altText: ''
-        url: 'https://wa.me/34634087218'
+        url: '#contact-us'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -480,7 +480,7 @@ sections:
     styles:
       self:
         padding:
-          - pb-40
+          - pb-16
           - pt-16
           - pl-3
           - pr-3

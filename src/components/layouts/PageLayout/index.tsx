@@ -37,8 +37,8 @@ export default function PageLayout(props) {
                     </div>
                 )}
                 {/* Contact Form Section */}
-                <section className="px-4 py-16 sb-layout sb-page-layout-contact-form bg-slate-100 ">
-                    <div className="mx-auto mb-8 text-center sb-component sb-component-section sb-component-contact-form max-w-sectionBody">
+                <section id="contact-us" className="px-4 pt-16 pb-8 md:py-16 sb-layout sb-page-layout-contact-form bg-slate-100 ">
+                    <div className="mx-auto mb-6 text-center sb-component sb-component-section sb-component-contact-form max-w-sectionBody">
                         <h3 className="mb-8 text-4xl font-medium leading-3">Need more info?</h3>
                         <p className="md:text-lg">Use the form below to send us your message...</p>
                     </div>

@@ -17,11 +17,10 @@ const ContactForm = () => {
 
     return (
         <form
-            id="contact-us"
             name="contact"
             method="POST"
             data-netlify="true"
-            className="p-8 mx-auto border-2 rounded-lg shadow-md md:p-12 bg-cyan-50 border-zinc-500 max-w-sectionBody"
+            className="p-8 mx-auto border-2 shadow-md rounded-xl md:p-12 bg-cyan-50 border-zinc-500 max-w-sectionBody"
         >
             <input type="hidden" name="form-name" value="contact" />
 
@@ -88,7 +87,7 @@ const ContactForm = () => {
                 </div>
 
                 <div>
-                    <button type="submit" className="sb-component-button-primary bg-primary text-light hover:bg-primary/90">
+                    <button type="submit" className="w-full md:w-auto sb-component-button-primary bg-primary text-light hover:bg-primary/90">
                         Send Message
                     </button>
                 </div>
